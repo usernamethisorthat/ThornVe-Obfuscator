@@ -1,11 +1,11 @@
-# Voltils Obfuscation
+# Voltfuscator
 A Lua 5.1 / Luau Obfuscator 🔒
 
 *Discord server:* [Voltils](https://discord.gg/78yYmtaeg4)
 | *Website:* https://voltils.cc/obfuscate
 -
 
-**About Voltils**
+**About Voltfuscator**
 
 Voltils is a **mid–high tier free obfuscator** designed for Lua 5.1 and Luau. It focuses on strong protection, daily updates, and a smooth developer experience.
 
